@@ -1,4 +1,4 @@
-#QueryGuard
+# QueryGuard
 
 ## 👤 Team members:
 * **Varun**
