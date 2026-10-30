@@ -1,0 +1,15 @@
+.env
+
+# Node modules and dependencies
+node_modules/
+jspm_packages/
+
+# Build outputs and Vite caches
+dist/
+build/
+.vite/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.log
